@@ -1,0 +1,8 @@
+{
+  "useSmtp": true,
+  "host": "stmp.gmail.com",
+  "port": 465,
+  "username": "waheedshams0@gmail.com",
+  "password": "Oodcr3886#$",
+  "recipientEmail": "waheedshams0@gmail.com"
+}
